@@ -1,0 +1,5 @@
+a=input("ukucaj prvi broj:")
+b=input("ukucaj drugi broj:")
+print("zbrajanje:",int(a)+int(b))
+print("oduzimanje:",int(b)-int(a))
+print("mnozenje:",int(a)*int(b))
